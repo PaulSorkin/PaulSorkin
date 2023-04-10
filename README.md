@@ -15,7 +15,7 @@
 </div>
 <p>Front End Developer with 2 years of experience, specializing in building dynamic and efficient web applications with complex UI/UX designs. Turn mockups into fully functional interfaces in production using React, Redux, ES6, HTML, CSS, and related technologies.</p>
 <p>Previous engineering expertise spans over a decade, gained from working at a top-performing company in its industry. This experience has taught me how to thrive in fast-paced environments while continuously improving my skills. I enjoy working closely with designers, project managers, and other stakeholders to deliver high-quality products that meet business needs</p>
-<p align="center"><a href="https://my-dev-resume.vercel.app/" target="_blank">Visit my portfolio website</a></p>
+<h3 align="center"><a href="https://my-dev-resume.vercel.app/" target="_blank">Visit my portfolio website!</a></h3>
 <div id="tools" align="center">
     <h3>Languages and tools</h3>
     <img title="React" alt="React" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
