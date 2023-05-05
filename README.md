@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/badge/-EMAIL-blue?style=flat&logo=gmail" alt="Email">
     </a>
 </div>
-<p>Front End Developer with 2 years of experience, specializing in building dynamic and efficient web applications with complex UI/UX designs. Turn mockups into fully functional interfaces in production using React, Redux, ES6, HTML, CSS, and related technologies.</p>
+<p>Front End Developer with experience in building dynamic and efficient web applications with complex UI/UX designs. Turn mockups into fully functional interfaces in production using React, Redux, ES6, HTML, CSS, and related technologies.</p>
 <p>Previous engineering expertise spans over a decade, gained from working at a top-performing company in its industry. This experience has taught me how to thrive in fast-paced environments while continuously improving my skills. I enjoy working closely with designers, project managers, and other stakeholders to deliver high-quality products that meet business needs</p>
 <h3 align="center"><a href="https://my-dev-resume.vercel.app/" target="_blank">Visit my portfolio website!</a></h3>
 <div id="tools" align="center">
